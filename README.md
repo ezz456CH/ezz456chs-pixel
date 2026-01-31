@@ -6,7 +6,7 @@ a pixel font by ezz456ch :D
 
 ## Download
 
-you can download the font from the [Releases](https://github.com/ezz456CH/ezz456chs-pixel/releases) tab
+you can either download the font from the [Releases](https://github.com/ezz456CH/ezz456chs-pixel/releases) tab or generate it yourself using fontforge
 
 **happy typing~!**
 
