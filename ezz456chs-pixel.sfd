@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 3978121
-ModificationTime: 1770390334
+ModificationTime: 1770391803
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -92,7 +92,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 524288 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anchor" "'mark' Mark Positioning lookup 0 subtable"
-BeginChars: 1114114 139
+BeginChars: 1114114 141
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -5395,6 +5395,52 @@ SplineSet
  704 640 l 1,30,-1
  704 512 l 1,31,-1
  576 512 l 1,20,-1
+EndSplineSet
+EndChar
+
+StartChar: uni300C
+Encoding: 12300 12300 139
+Width: 512
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+192 383 m 5,0,-1
+ 192 767 l 5,1,-1
+ 320 767 l 5,2,-1
+ 448 767 l 5,3,-1
+ 448 703 l 5,4,-1
+ 448 639 l 5,5,-1
+ 384 639 l 5,6,-1
+ 320 639 l 5,7,-1
+ 320 319 l 5,8,-1
+ 320 -1 l 5,9,-1
+ 256 -1 l 5,10,-1
+ 192 -1 l 5,11,-1
+ 192 383 l 5,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni300D
+Encoding: 12301 12301 140
+Width: 512
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+192 447 m 5,0,-1
+ 192 767 l 5,1,-1
+ 256 767 l 5,2,-1
+ 320 767 l 5,3,-1
+ 320 383 l 5,4,-1
+ 320 -1 l 5,5,-1
+ 192 -1 l 5,6,-1
+ 64 -1 l 5,7,-1
+ 64 63 l 5,8,-1
+ 64 127 l 5,9,-1
+ 128 127 l 5,10,-1
+ 192 127 l 5,11,-1
+ 192 447 l 5,0,-1
 EndSplineSet
 EndChar
 EndChars
